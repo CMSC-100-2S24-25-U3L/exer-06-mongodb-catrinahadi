@@ -1,7 +1,8 @@
 {
   "name": "exer-06-mongodb-catrinahadi",
   "version": "1.0.0",
-  "description": "",
+  "description": "Title: User Management using Express, Mongoose, Needle, and MongoDB compass",
+  "keywords": [],
   "homepage": "https://github.com/CMSC-100-2S24-25-U3L/exer-06-mongodb-catrinahadi#readme",
   "bugs": {
     "url": "https://github.com/CMSC-100-2S24-25-U3L/exer-06-mongodb-catrinahadi/issues"
@@ -12,9 +13,15 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "router.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "needle": "^3.3.1"
+  },
+  "devDependencies": {}
 }
