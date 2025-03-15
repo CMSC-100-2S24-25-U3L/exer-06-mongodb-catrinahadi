@@ -2,15 +2,17 @@ import needle from 'needle';
 
 needle.post('http://localhost:3000/save-student', {
     stdnum: "1010",
-    fname: "Elizabeth",
-    lname: "Windsor",
-    age: 98
+    fname: "Mary Jane",
+    lname: "Watson",
+    age: 23
 }, (err, res) =>{
     console.log(res.body)
 });
 
 needle.post('http://localhost:3000/update', {
-    fname: "Mary Jane"
+    fname: "Mary Jane",
+    newFname: "Mary Jane", //
+    newLname: "Parker"
 }, (err, res) => {
     console.log(res.body);
 });
