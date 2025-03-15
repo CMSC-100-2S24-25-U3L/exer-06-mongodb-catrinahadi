@@ -17,3 +17,10 @@ HOW TO USE?
 4. Run request.js to implement the code you created to update the data in your database.
 5. Check MongoDB for changes, and do step 4 until you run all the possible operations (add, update, delete, delete all).
 6. In checking the get method, paste the link on your browser and check if there are data appearing.
+
+
+github page: https://cmsc-100-2s24-25-u3l.github.io/exer-06-mongodb-catrinahadi/
+
+https://cmsc-100-2s24-25-u3l.github.io/exer-06-mongodb-catrinahadi/request.js
+
+https://cmsc-100-2s24-25-u3l.github.io/exer-06-mongodb-catrinahadi/index.js
