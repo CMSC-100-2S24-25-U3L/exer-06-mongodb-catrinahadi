@@ -1,0 +1,3 @@
+[submodule "my-submodule"]
+	path = my-submodule
+	url = https://github.com/CMSC-100-2S24-25-U3L/exer-06-mongodb-catrinahadi.git
